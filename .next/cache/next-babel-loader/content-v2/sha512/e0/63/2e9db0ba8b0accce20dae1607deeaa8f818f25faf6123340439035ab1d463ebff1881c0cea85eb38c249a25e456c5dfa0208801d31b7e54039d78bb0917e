@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n//our-domain.com/news\nimport React from 'react';\n\nfunction NewsPage() {\n  return /*#__PURE__*/_jsx(\"h1\", {\n    children: \"The News Page\"\n  });\n}\n\nexport default NewsPage;","map":null,"metadata":{},"sourceType":"module"}
